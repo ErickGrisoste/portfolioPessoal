@@ -170,15 +170,19 @@ h2{
 
 }
 
+#rodape{
+    margin-top: 15rem;
+    background-color: #6A5ACD;
+    width: 100vw;
+    padding: 20px;
+}
+
 #contato{
-    margin: 300px;
     text-align: center;
     font-size: 30px;
 }
 
-#rodape{
-    background-color: #6A5ACD;
-}
+
 
 
 
