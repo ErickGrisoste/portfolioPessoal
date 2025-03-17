@@ -17,7 +17,6 @@ header{
     background-color: #6A5ACD;
     width: 100vw;
     top: 0;
-   
 }
 
 #topo{
@@ -173,8 +172,7 @@ h2{
 #rodape{
     margin-top: 15rem;
     background-color: #6A5ACD;
-    width: 100vw;
-    padding: 20px;
+    padding: 10px;
 }
 
 #contato{
